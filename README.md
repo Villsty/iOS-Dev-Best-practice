@@ -11,7 +11,7 @@ git init
 
 This will create a new Git repository in the root directory of your Xcode project.
 
-Create a new repository on GitHub: /n
+Create a new repository on GitHub:
 In your web browser, navigate to GitHub and create a new repository. Give your repository a name and description, and make sure to select the appropriate options for public or private visibility.
 
 Link your Xcode project to the GitHub repository: 
