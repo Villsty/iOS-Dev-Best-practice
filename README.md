@@ -3,7 +3,9 @@ My chosen workflow and way of working with Xcode, Github and coding in Swift
 
 Create a new Xcode project: 
 Open Xcode and create a new project using the appropriate project template. Choose a location on your local machine to save the project.
-Initialize a Git repository: In the terminal, navigate to the root directory of your Xcode project and initialize a new Git repository by running the following command:
+
+Initialize a Git repository: 
+In the terminal, navigate to the root directory of your Xcode project and initialize a new Git repository by running the following command:
 
 git init
 
